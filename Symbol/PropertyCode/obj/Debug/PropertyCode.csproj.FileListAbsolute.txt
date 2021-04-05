@@ -1,0 +1,101 @@
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.CustomCollectionEditorControl.resources
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.frmProperties.resources
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.GenerateResource.cache
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CoreCompileInputs.cache
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\bin\Debug\PropertyCode.dll
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\bin\Debug\PropertyCode.pdb
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\bin\Debug\FastColoredTextBox.dll
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\bin\Debug\NCalc.dll
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\bin\Debug\Newtonsoft.Json.dll
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CopyComplete
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.dll
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.pdb
+H:\EasyScada\0.0EasyScada\Symbol\PropertyCode\obj\Debug\PropertyCode.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.CustomCollectionEditorControl.resources
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.frmProperties.resources
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.GenerateResource.cache
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.pdb
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\PropertyCode.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\PropertyCode.pdb
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\FastColoredTextBox.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\NCalc.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Newtonsoft.Json.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\MySql.Data.dll
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.pdb
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll.config
+G:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CopyComplete
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+G:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\PropertyCode.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\PropertyCode.pdb
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\FastColoredTextBox.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\NCalc.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\MySql.Data.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csprojAssemblyReference.cache
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.CustomCollectionEditorControl.resources
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.frmProperties.resources
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.GenerateResource.cache
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CoreCompileInputs.cache
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.dll
+H:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.pdb
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\PropertyCode.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\PropertyCode.pdb
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Core.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\FastColoredTextBox.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\NCalc.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Newtonsoft.Json.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\MySql.Data.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Core.pdb
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.pdb
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll.config
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+I:\0.Work\0.WPF project\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csprojAssemblyReference.cache
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.CustomCollectionEditorControl.resources
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.frmProperties.resources
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.GenerateResource.cache
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CoreCompileInputs.cache
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CopyComplete
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.dll
+I:\0.Work\0.WPF project\Symbol\PropertyCode\obj\Debug\PropertyCode.pdb
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\PropertyCode.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\PropertyCode.pdb
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\FastColoredTextBox.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\NCalc.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\MySql.Data.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.AFS\Symbol\PropertyCode\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.csprojAssemblyReference.cache
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.CustomCollectionEditorControl.resources
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.frmProperties.resources
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.GenerateResource.cache
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.csproj.CopyComplete
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.dll
+H:\0.Work\0.AFS\Symbol\PropertyCode\obj\Debug\PropertyCode.pdb

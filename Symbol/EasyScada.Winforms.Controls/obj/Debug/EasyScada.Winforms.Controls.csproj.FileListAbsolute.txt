@@ -1,0 +1,251 @@
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\MySql.Data.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\FastColoredTextBox.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\NCalc.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.CustomCollectionEditorControl.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.frmProperties.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.CustomCollectionEditorControl.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.frmProperties.resources
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\FastColoredTextBox.dll
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\NCalc.dll
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\EasyScadaEdit\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\MySql.Data.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.xml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.CustomCollectionEditorControl.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.frmProperties.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\MySql.Data.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.xml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.CustomCollectionEditorControl.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.frmProperties.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\MySql.Data.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.xml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.CustomCollectionEditorControl.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.frmProperties.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\MySql.Data.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\bin\Debug\Newtonsoft.Json.xml
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csprojAssemblyReference.cache
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.HistoricalTrendToolbox.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSetting.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyAlarmSettingDesignerForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.AnimateDesignerForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ConnectionSchemeDesignerForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.GetConnectionSchemaForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ColumnsConfigDesignerForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.LogProfileConfigDesignerForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SearchTagControl.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.SelectTagPathDesignerForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Navigator.EasyPageFormEditFlags.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.Properties.Resources.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyInputBox.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyMessageBox.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.VisualTaskDialog.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.ModalWaitDialog.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.EasyCheckButtonCollectionForm.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.PaletteDrawBordersSelector.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.CustomCollectionEditorControl.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.frmProperties.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.GenerateResource.cache
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.csproj.CopyComplete
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Winforms.Controls\obj\Debug\EasyScada.Winforms.Controls.pdb

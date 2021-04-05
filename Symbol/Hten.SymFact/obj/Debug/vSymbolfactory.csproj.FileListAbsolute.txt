@@ -1,0 +1,16 @@
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\vSymbolfactory.dll.config
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\vSymbolfactory.dll
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\vSymbolfactory.pdb
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.csprojAssemblyReference.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.Form1.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.Properties.Resources.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.SymLib.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.csproj.GenerateResource.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.dll.licenses
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.csproj.CoreCompileInputs.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.csproj.CopyComplete
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.dll
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vSymbolfactory.pdb

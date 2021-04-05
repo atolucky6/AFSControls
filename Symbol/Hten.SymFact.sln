@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LaMarvin.Windows.Forms.ColorPicker", "Control\LaMarvin.Windows.Forms.ColorPicker.vbproj", "{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vGraphic", "Hten.SymFact\vGraphic.csproj", "{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlHelper", "XamlHelper\XamlHelper.csproj", "{A85F0C73-5442-470A-AEEE-DE1456112FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyCode", "PropertyCode\PropertyCode.csproj", "{580F8513-E035-46E6-9AA0-86EB2CA2B9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyScada.Winforms.Controls", "EasyScada.Winforms.Controls\EasyScada.Winforms.Controls.csproj", "{BA53E923-5BAD-443C-A8F0-B191EAB9CA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyScada.Core", "EasyScada.Core\EasyScada.Core.csproj", "{275E5D96-E78D-4FAD-A87A-415DBF1D7B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VietControl", "VietControl\VietControl.csproj", "{5DFA5B22-8A96-4926-878B-9E2370572CD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85F0C73-5442-470A-AEEE-DE1456112FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85F0C73-5442-470A-AEEE-DE1456112FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85F0C73-5442-470A-AEEE-DE1456112FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85F0C73-5442-470A-AEEE-DE1456112FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580F8513-E035-46E6-9AA0-86EB2CA2B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580F8513-E035-46E6-9AA0-86EB2CA2B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580F8513-E035-46E6-9AA0-86EB2CA2B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580F8513-E035-46E6-9AA0-86EB2CA2B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA53E923-5BAD-443C-A8F0-B191EAB9CA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA53E923-5BAD-443C-A8F0-B191EAB9CA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA53E923-5BAD-443C-A8F0-B191EAB9CA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA53E923-5BAD-443C-A8F0-B191EAB9CA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275E5D96-E78D-4FAD-A87A-415DBF1D7B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275E5D96-E78D-4FAD-A87A-415DBF1D7B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275E5D96-E78D-4FAD-A87A-415DBF1D7B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275E5D96-E78D-4FAD-A87A-415DBF1D7B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E64E5D-F316-480C-9446-906CE8FA0079}
+	EndGlobalSection
+EndGlobal

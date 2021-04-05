@@ -1,0 +1,41 @@
+G:\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CoreCompileInputs.cache
+G:\0.0EasyScada\Symbol\XamlHelper\bin\Debug\XamlHelper.dll
+G:\0.0EasyScada\Symbol\XamlHelper\bin\Debug\XamlHelper.pdb
+G:\0.0EasyScada\Symbol\XamlHelper\bin\Debug\Newtonsoft.Json.dll
+G:\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CopyComplete
+G:\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.dll
+G:\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\bin\Debug\XamlHelper.dll
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\bin\Debug\XamlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CoreCompileInputs.cache
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CopyComplete
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.dll
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\XamlHelper\obj\Debug\XamlHelper.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\XamlHelper\bin\Debug\XamlHelper.dll
+G:\0.Work\0.WPF project\Symbol\XamlHelper\bin\Debug\XamlHelper.pdb
+G:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CopyComplete
+G:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.dll
+G:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.pdb
+H:\0.Work\0.WPF project\Symbol\XamlHelper\bin\Debug\XamlHelper.dll
+H:\0.Work\0.WPF project\Symbol\XamlHelper\bin\Debug\XamlHelper.pdb
+H:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CoreCompileInputs.cache
+H:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.dll
+H:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.pdb
+I:\0.Work\0.WPF project\Symbol\XamlHelper\bin\Debug\XamlHelper.dll
+I:\0.Work\0.WPF project\Symbol\XamlHelper\bin\Debug\XamlHelper.pdb
+I:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csprojAssemblyReference.cache
+I:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CoreCompileInputs.cache
+I:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CopyComplete
+I:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.dll
+I:\0.Work\0.WPF project\Symbol\XamlHelper\obj\Debug\XamlHelper.pdb
+H:\0.Work\0.AFS\Symbol\XamlHelper\bin\Debug\XamlHelper.dll
+H:\0.Work\0.AFS\Symbol\XamlHelper\bin\Debug\XamlHelper.pdb
+H:\0.Work\0.AFS\Symbol\XamlHelper\obj\Debug\XamlHelper.csprojAssemblyReference.cache
+H:\0.Work\0.AFS\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\XamlHelper\obj\Debug\XamlHelper.csproj.CopyComplete
+H:\0.Work\0.AFS\Symbol\XamlHelper\obj\Debug\XamlHelper.dll
+H:\0.Work\0.AFS\Symbol\XamlHelper\obj\Debug\XamlHelper.pdb

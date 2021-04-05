@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{275E5D96-E78D-4FAD-A87A-415DBF1D7B74}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EasyScada.Core</RootNamespace>
+    <AssemblyName>EasyScada.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Client, Version=2.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Client.2.4.1\lib\net45\Microsoft.AspNet.SignalR.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.6.7.9\lib\net45\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alarm\AlarmClass.cs" />
+    <Compile Include="Alarm\AlarmGroup.cs" />
+    <Compile Include="Alarm\Base\AlarmItemBase.cs" />
+    <Compile Include="Alarm\AlarmSetting.cs" />
+    <Compile Include="Alarm\Base\AlarmItemCollection.cs" />
+    <Compile Include="Alarm\Base\AlarmState.cs" />
+    <Compile Include="Alarm\AnalogAlarm.cs" />
+    <Compile Include="Alarm\Base\DeadbandMode.cs" />
+    <Compile Include="Alarm\DiscreteAlarm.cs" />
+    <Compile Include="Alarm\EmailSetting.cs" />
+    <Compile Include="Alarm\EventArgs\AlarmStateChangedEventArgs.cs" />
+    <Compile Include="Alarm\Base\IUniqueNameItem.cs" />
+    <Compile Include="Alarm\Base\LimitMode.cs" />
+    <Compile Include="Alarm\QualityAlarm.cs" />
+    <Compile Include="Alarm\SMSSetting.cs" />
+    <Compile Include="Alarm\Base\TimeUnit.cs" />
+    <Compile Include="Alarm\Base\UniqueItemCollection.cs" />
+    <Compile Include="Animate\Trigger\AnalogTrigger.cs" />
+    <Compile Include="Animate\Trigger\AnimateProperty\AnimateProperty.cs" />
+    <Compile Include="Animate\Trigger\AnimateProperty\AnimatePropertyBase.cs" />
+    <Compile Include="Animate\Trigger\AnimateProperty\AnimatePropertyWrapper.cs" />
+    <Compile Include="Animate\Trigger\AnimateProperty\ImageAnimateProperty.cs" />
+    <Compile Include="Animate\Trigger\CompareMode.cs" />
+    <Compile Include="Animate\Trigger\DiscreteTrigger.cs" />
+    <Compile Include="Animate\Trigger\QualityTrigger.cs" />
+    <Compile Include="Animate\Trigger\TriggerBase.cs" />
+    <Compile Include="Animate\Trigger\TriggerCollection.cs" />
+    <Compile Include="Attributes\TagAttribute.cs" />
+    <Compile Include="Connector\ClientTagJsonConverter.cs" />
+    <Compile Include="Connector\ConnectionSchemaJsonConverter.cs" />
+    <Compile Include="Connector\EasyDriverConnector.cs" />
+    <Compile Include="Connector\EasyDriverConnectorProvider.cs" />
+    <Compile Include="Converter\ControlTypeConverter.cs" />
+    <Compile Include="Converter\OdbcDriverNameSourceConverter.cs" />
+    <Compile Include="Converter\StringLookupConverter.cs" />
+    <Compile Include="Evaluate\Evaluator.cs" />
+    <Compile Include="Evaluate\Parser\IIFShortCircuit.cs" />
+    <Compile Include="Evaluate\Parser\TokenExpression.cs" />
+    <Compile Include="Evaluate\Parser\TokenGroup.cs" />
+    <Compile Include="Evaluate\Parser\TokenItem.cs" />
+    <Compile Include="Evaluate\Parser\TokenItems.cs" />
+    <Compile Include="Evaluate\Parser\Tokens.cs" />
+    <Compile Include="Evaluate\Parser\Variable.cs" />
+    <Compile Include="Evaluate\Parser\Variables.cs" />
+    <Compile Include="Evaluate\Helper\DataTypeCheck.cs" />
+    <Compile Include="Evaluate\Helper\ExQueue.cs" />
+    <Compile Include="Evaluate\Helper\ExStack.cs" />
+    <Compile Include="Extensions\DesignerHelper.cs" />
+    <Compile Include="General\Definitations.cs" />
+    <Compile Include="Converter\TagPathConverter.cs" />
+    <Compile Include="Enums\AccessPermission.cs" />
+    <Compile Include="Enums\ByteOrder.cs" />
+    <Compile Include="Enums\CommunicationMode.cs" />
+    <Compile Include="Enums\ConnectionStatus.cs" />
+    <Compile Include="Enums\Quality.cs" />
+    <Compile Include="Enums\StationType.cs" />
+    <Compile Include="Enums\WriteMode.cs" />
+    <Compile Include="Enums\WritePiority.cs" />
+    <Compile Include="EventArgs\ConnectionStatusChangedEventArgs.cs" />
+    <Compile Include="EventArgs\TagQualityChangedEventArgs.cs" />
+    <Compile Include="EventArgs\TagValueChangedEventArgs.cs" />
+    <Compile Include="Extensions\ConnectorHelper.cs" />
+    <Compile Include="General\DesignerCategory.cs" />
+    <Compile Include="General\TypedCollection.cs" />
+    <Compile Include="General\TypedCollectionEventArgs.cs" />
+    <Compile Include="Logger\LogColumnCollection.cs" />
+    <Compile Include="Logger\LogColumnMode.cs" />
+    <Compile Include="Logger\LogProfile\DbCreateMode.cs" />
+    <Compile Include="Logger\LogProfile\LogProfileCollection.cs" />
+    <Compile Include="Logger\LogProfile\DbType.cs" />
+    <Compile Include="Logger\LogColumn.cs" />
+    <Compile Include="Logger\LogErrorEventArgs.cs" />
+    <Compile Include="Logger\LoggedEventArgs.cs" />
+    <Compile Include="Logger\LoggingEventArgs.cs" />
+    <Compile Include="Logger\LogProfile\LogProfile.cs" />
+    <Compile Include="Models\Base\CollectionCoreItem.cs" />
+    <Compile Include="Models\Base\ItemType.cs" />
+    <Compile Include="Models\ClientTag.cs" />
+    <Compile Include="Models\ConnectionSchema.cs" />
+    <Compile Include="Models\Base\CoreItemBase.cs" />
+    <Compile Include="Models\CoreItem.cs" />
+    <Compile Include="Models\Base\ICheckable.cs" />
+    <Compile Include="Models\Base\ICoreItem.cs" />
+    <Compile Include="Connector\IEasyDriverConnector.cs" />
+    <Compile Include="Models\ITag.cs" />
+    <Compile Include="Models\WriteCommand.cs" />
+    <Compile Include="Models\WriteResponse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="EventArgs\TagWritedEventArgs.cs" />
+    <Compile Include="EventArgs\TagWritingEventArgs.cs" />
+    <Compile Include="Converter\WriteTriggerConverter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Resources\Theme\TreeView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\ToggleButton.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\TextBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\Slider.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\RichTextBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\RepeatButton.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\RadioButton.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\ProgressBar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\Button.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\PasswordBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\Menu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\GroupBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\Generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\CheckBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\ComboBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\ListBox.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\ScrollViewer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\ListBoxScrollViewer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\Theme\TabControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Assembly\Microsoft.AspNet.SignalR.Client.dll" />
+    <EmbeddedResource Include="Assembly\Newtonsoft.Json.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\channel_24px.png" />
+    <Resource Include="Resources\Images\device_24px.png" />
+    <Resource Include="Resources\Images\local_station_16px.png" />
+    <Resource Include="Resources\Images\remote_station_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Images\checkmark_48px.png" />
+    <Resource Include="Resources\Images\delete_48px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

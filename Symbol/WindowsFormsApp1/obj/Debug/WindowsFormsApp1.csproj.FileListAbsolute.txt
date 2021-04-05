@@ -1,0 +1,211 @@
+G:\MVVm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\MVVm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\MVVm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\MVVm\WindowsFormsApp1\bin\Debug\Hten.SymFact.dll
+G:\MVVm\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\MVVm\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+G:\MVVm\WindowsFormsApp1\bin\Debug\Hten.SymFact.pdb
+G:\MVVm\WindowsFormsApp1\bin\Debug\Hten.SymFact.dll.config
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\MVVm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\vGraphic.dll
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\vGraphic.pdb
+G:\MVVm\New folder\WindowsFormsApp1\bin\Debug\vGraphic.dll.config
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\MVVm\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.pdb
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll.config
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.pdb
+G:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.pdb
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll.config
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.pdb
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+F:\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll.config
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\PropertyCode.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\FastColoredTextBox.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\NCalc.dll
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\bin\Debug\PropertyCode.pdb
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\PropertyCode.Form4.resources
+H:\EasyScada\0.0EasyScada\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControl1.resources
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\PropertyCode.Form4.resources
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\PropertyCode.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\VietControl.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\NCalc.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\FastColoredTextBox.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll.config
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\PropertyCode.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\VietControl.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Winforms.Controls.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Winforms.Controls.dll.config
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+G:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\FastColoredTextBox.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\NCalc.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\PropertyCode.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\VietControl.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\vGraphic.dll.config
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\PropertyCode.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\VietControl.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\XamlHelper.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\PropertyCode.Form4.resources
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\PropertyCode.Form4.resources
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\0.Work\0.WPF project\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\PropertyCode.Form4.resources
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\0.Work\0.AFS\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

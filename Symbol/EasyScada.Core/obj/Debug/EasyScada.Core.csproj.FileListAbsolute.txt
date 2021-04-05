@@ -1,0 +1,196 @@
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\EasyScada.Core.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\EasyScada.Core.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\MySql.Data.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\TreeView.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\ToggleButton.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\TextBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\Slider.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\RichTextBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\RepeatButton.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\RadioButton.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\ProgressBar.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\Button.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\PasswordBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\Menu.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\GroupBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\Generic.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\CheckBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\ComboBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\ListBox.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\ScrollViewer.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\ListBoxScrollViewer.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\Resources\Theme\TabControl.baml
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core_MarkupCompile.cache
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core.g.resources
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CoreCompileInputs.cache
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CopyComplete
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core.dll
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core.pdb
+E:\Work\Others\EasyScada\Source\EasyScada\EasyScada.Core\obj\Debug\EasyScada.Core.csprojAssemblyReference.cache
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\bin\Debug\EasyScada.Core.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\bin\Debug\EasyScada.Core.pdb
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\bin\Debug\Newtonsoft.Json.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\TreeView.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\ToggleButton.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\TextBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\Slider.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\RichTextBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\RepeatButton.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\RadioButton.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\ProgressBar.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\Button.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\PasswordBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\Menu.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\GroupBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\Generic.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\CheckBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\ComboBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\ListBox.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\ScrollViewer.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\ListBoxScrollViewer.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\Resources\Theme\TabControl.baml
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\EasyScada.Core_MarkupCompile.cache
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\EasyScada.Core.g.resources
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CoreCompileInputs.cache
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CopyComplete
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\EasyScada.Core.dll
+F:\0.Work\24.WPF project\EasyScadaEdit\EasyScada.Core\obj\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\MySql.Data.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.xml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TreeView.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ToggleButton.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TextBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Slider.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RichTextBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RepeatButton.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RadioButton.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ProgressBar.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Button.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\PasswordBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Menu.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\GroupBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Generic.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\CheckBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ComboBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBox.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ScrollViewer.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBoxScrollViewer.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TabControl.baml
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core_MarkupCompile.cache
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.g.resources
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CopyComplete
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csprojAssemblyReference.cache
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\MySql.Data.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.xml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TreeView.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ToggleButton.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TextBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Slider.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RichTextBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RepeatButton.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RadioButton.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ProgressBar.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Button.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\PasswordBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Menu.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\GroupBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Generic.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\CheckBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ComboBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBox.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ScrollViewer.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBoxScrollViewer.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TabControl.baml
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core_MarkupCompile.cache
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.g.resources
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CoreCompileInputs.cache
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.dll
+H:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\MySql.Data.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.xml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csprojAssemblyReference.cache
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TreeView.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ToggleButton.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TextBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Slider.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RichTextBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RepeatButton.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RadioButton.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ProgressBar.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Button.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\PasswordBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Menu.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\GroupBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Generic.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\CheckBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ComboBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBox.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ScrollViewer.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBoxScrollViewer.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TabControl.baml
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core_MarkupCompile.cache
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.g.resources
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CoreCompileInputs.cache
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CopyComplete
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.dll
+I:\0.Work\0.WPF project\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\MySql.Data.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\bin\Debug\Newtonsoft.Json.xml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TreeView.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ToggleButton.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TextBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Slider.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RichTextBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RepeatButton.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\RadioButton.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ProgressBar.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Button.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\PasswordBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Menu.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\GroupBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\Generic.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\CheckBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ComboBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBox.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ScrollViewer.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\ListBoxScrollViewer.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\Resources\Theme\TabControl.baml
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core_MarkupCompile.cache
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.g.resources
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.csproj.CopyComplete
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.dll
+H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\EasyScada.Core.pdb

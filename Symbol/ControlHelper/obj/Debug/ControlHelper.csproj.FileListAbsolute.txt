@@ -1,0 +1,12 @@
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\ControlHelper.dll
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\ControlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\obj\Debug\ControlHelper.csproj.CoreCompileInputs.cache
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\obj\Debug\ControlHelper.dll
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\obj\Debug\ControlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\obj\Debug\ControlHelper.csprojAssemblyReference.cache
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\PropertyCode.dll
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\FastColoredTextBox.dll
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\NCalc.dll
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\Newtonsoft.Json.dll
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\bin\Debug\PropertyCode.pdb
+H:\EasyScada\0.0EasyScada\Symbol\ControlHelper\obj\Debug\ControlHelper.csproj.CopyComplete

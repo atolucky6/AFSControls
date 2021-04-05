@@ -1,0 +1,78 @@
+{
+  "ItemType": "ConnectionSchema",
+  "ServerAddress": "127.0.0.1",
+  "Port": 8800,
+  "CommunicationMode": "ReceiveFromServer",
+  "RefreshRate": 500,
+  "CreatedDate": "2021-02-27T23:55:51.0133249+07:00",
+  "Username": null,
+  "Password": null,
+  "Properties": {},
+  "Childs": [
+    {
+  "ItemType": "LocalStation",
+  "Name": "Local Station",
+  "Path": "Local Station",
+  "Description": null,
+  "DisplayInfo": "",
+  "Error": null,
+  "Properties": {},
+  "Childs": [
+    {
+  "ItemType": "Channel",
+  "Name": "Channel1",
+  "Path": "Local Station/Channel1",
+  "Description": null,
+  "DisplayInfo": "ModbusRTU",
+  "Error": null,
+  "Properties": {},
+  "Childs": [
+    {
+  "ItemType": "Device",
+  "Name": "Device1",
+  "Path": "Local Station/Channel1/Device1",
+  "Description": null,
+  "DisplayInfo": "",
+  "Error": null,
+  "Properties": {},
+  "Childs": [
+    {
+  "ItemType": "Tag",
+  "Name": "Tag1",
+  "Path": "Local Station/Channel1/Device1/Tag1",
+  "Description": null,
+  "DisplayInfo": "",
+  "Error": null,
+  "Properties": {
+  "Value": "0",
+  "Quality": "Good",
+  "DataType": "Word",
+  "AccessPermission": "ReadAndWrite",
+  "TimeStamp": "27/02/2021 23:55:50"
+},
+  "Childs": []
+},
+    {
+  "ItemType": "Tag",
+  "Name": "Tag2",
+  "Path": "Local Station/Channel1/Device1/Tag2",
+  "Description": null,
+  "DisplayInfo": "",
+  "Error": null,
+  "Properties": {
+  "Value": "1",
+  "Quality": "Good",
+  "DataType": "Bool",
+  "AccessPermission": "ReadAndWrite",
+  "TimeStamp": "27/02/2021 23:55:50"
+},
+  "Childs": []
+}
+  ]
+}
+  ]
+}
+  ]
+}
+  ]
+}

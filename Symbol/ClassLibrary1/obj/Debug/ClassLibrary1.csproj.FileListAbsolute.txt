@@ -1,0 +1,12 @@
+F:\0.0EasyScada\Symbol\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\0.0EasyScada\Symbol\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\0.0EasyScada\Symbol\ClassLibrary1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+F:\0.0EasyScada\Symbol\ClassLibrary1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+F:\0.0EasyScada\Symbol\ClassLibrary1\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.UserControl1.resources
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.cache
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\0.0EasyScada\Symbol\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,363 @@
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.SymFact.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.SymFact.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraCharts.v17.1.UI.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\EntityFramework.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ExcelExporter.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Control.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.DataHelper.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\NCalc.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\XamlHelper.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ZedGraph.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Users.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraReports.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\FastColoredTextBox.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Static.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.CodeCompletion.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.ValueTuple.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.Cecil.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.Xml.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Mono.Cecil.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Control.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraCharts.v17.1.UI.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\EntityFramework.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ExcelExporter.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ExcelExporter.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.DataHelper.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.DataHelper.dll.config
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Function.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.ScriptEditor.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.ScriptEditor.dll.config
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\XamlHelper.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ZedGraph.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Users.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraReports.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Static.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.CodeCompletion.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.CodeCompletion.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.Cecil.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ICSharpCode.NRefactory.Xml.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.Cache
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Proxy.Client.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.Proxy.Client.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CoreCompileInputs.cache
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Opc.Ua.Core.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\ProgressBarEx.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.DesignSurface.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.DesignSurface.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.ToolBox.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\Hten.ToolBox.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Bin\Hten.SymFact.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\20.HTEN\HTEN\HTEN\Bin\Hten.SymFact.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Bin\Hten.SymFact.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Bin\Hten.SymFact.pdb
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CoreCompileInputs.cache
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+C:\Users\HTEN-TD002\Documents\HTEN\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Bin\Hten.SymFact.dll
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Bin\Hten.SymFact.pdb
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+I:\Working 2020\SCADA_Hung\HTEN SCADA\HTEN\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Bin\Hten.SymFact.dll
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Bin\Hten.SymFact.pdb
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+I:\Working 2020\Source Code\HTEN sBatch\HTEN\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Bin\Hten.SymFact.dll
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Bin\Hten.SymFact.pdb
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+I:\Working 2020\HTEN Inova Batch\HTEN Inova Batch Control\Bin\Hten.SymFact.dll.config
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.dll.config
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.dll
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.pdb
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+I:\Working 2020\HTEN Inova Batch\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+D:\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.dll.config
+D:\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.dll
+D:\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.pdb
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CoreCompileInputs.cache
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+D:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+G:\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.dll.config
+G:\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.dll
+G:\HTENBatch Factory Control - ToolDev\Bin\Hten.SymFact.pdb
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.FormTest.resources
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.XtraForm1.resources
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CoreCompileInputs.cache
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+G:\HTENBatch Factory Control - ToolDev\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+G:\MVVm\Hten.SymFact\bin\Debug\Hten.SymFact.dll.config
+G:\MVVm\Hten.SymFact\bin\Debug\Hten.SymFact.dll
+G:\MVVm\Hten.SymFact\bin\Debug\Hten.SymFact.pdb
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.Form2.resources
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CoreCompileInputs.cache
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+G:\MVVm\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\Hten.SymFact.dll.config
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\Hten.SymFact.dll
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\Hten.SymFact.pdb
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.csprojAssemblyReference.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.Form1.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.Form2.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.Properties.Resources.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.SymLib.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.GenerateResource.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.dll.licenses
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CoreCompileInputs.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.csproj.CopyComplete
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.dll
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\Hten.SymFact.pdb
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml

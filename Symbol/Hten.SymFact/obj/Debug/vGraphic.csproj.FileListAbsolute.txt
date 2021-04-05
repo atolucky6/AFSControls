@@ -1,0 +1,176 @@
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\vGraphic.dll.config
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\vGraphic.dll
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\vGraphic.pdb
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\MVVm\New folder\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.Form1.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.dll
+G:\MVVm\New folder\Hten.SymFact\obj\Debug\vGraphic.pdb
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll.config
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.pdb
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\XamlHelper.dll
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\XamlHelper.pdb
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.Form1.resources
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+G:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll.config
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.pdb
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\XamlHelper.dll
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+E:\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\XamlHelper.pdb
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.Form1.resources
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+E:\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll.config
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\vGraphic.pdb
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\XamlHelper.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\XamlHelper.pdb
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\PropertyCode.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\FastColoredTextBox.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\NCalc.dll
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\bin\Debug\PropertyCode.pdb
+H:\EasyScada\0.0EasyScada\Symbol\Hten.SymFact\obj\Debug\vGraphic.frm_Graphic.resources
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll.config
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\vGraphic.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\FastColoredTextBox.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\NCalc.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\PropertyCode.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\XamlHelper.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Core.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\MySql.Data.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\PropertyCode.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\XamlHelper.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Core.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.dll.config
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.frm_Graphic.resources
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+G:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll.config
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\vGraphic.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\FastColoredTextBox.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\NCalc.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\PropertyCode.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\XamlHelper.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\MySql.Data.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\PropertyCode.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\XamlHelper.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.frm_Graphic.resources
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+H:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.frm_Graphic.resources
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+I:\0.Work\0.WPF project\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.csprojAssemblyReference.cache
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.frm_Graphic.resources
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.Properties.Resources.resources
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.GenerateResource.cache
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll.licenses
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll.config
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\vGraphic.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\vGraphic.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\FastColoredTextBox.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\NCalc.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\PropertyCode.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\XamlHelper.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\MySql.Data.dll
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\PropertyCode.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\XamlHelper.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.csproj.CopyComplete
+H:\0.Work\0.AFS\Symbol\Hten.SymFact\obj\Debug\vGraphic.SymLib.resources

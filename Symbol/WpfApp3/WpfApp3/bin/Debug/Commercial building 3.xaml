@@ -1,0 +1,94 @@
+<Viewbox Stretch="Uniform" Width="64" Height="64" ToolTip="Commercial building 3" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:s="clr-namespace:System;assembly=mscorlib">
+  <Viewbox.Tag>
+    <s:Int64>1932425630</s:Int64>
+  </Viewbox.Tag>
+  <Canvas Tag="#00000000,#FF008000,Original,0,None" LayoutTransform="Identity" Width="999" Height="933">
+    <Polygon Points="28,154 28,905 783,905 783,154 28,154" Fill="#FFCCCCCC" Stroke="#FF000000" StrokeThickness="3" />
+    <Polygon Points="531,216 719,216 719,342 531,342 531,216" Fill="#FFA6BAD9" />
+    <Polygon Points="311,216 500,216 500,342 311,342 311,216" Fill="#FFA6BAD9" />
+    <Polygon Points="92,216 280,216 280,342 92,342 92,216" Fill="#FFA6BAD9" />
+    <Polygon Points="531,373 719,373 719,498 531,498 531,373" Fill="#FFA6BAD9" />
+    <Polygon Points="311,373 500,373 500,498 311,498 311,373" Fill="#FFA6BAD9" />
+    <Polygon Points="92,373 280,373 280,498 92,498 92,373" Fill="#FFA6BAD9" />
+    <Polygon Points="531,530 719,530 719,655 531,655 531,530" Fill="#FFA6BAD9" />
+    <Polygon Points="311,530 500,530 500,655 311,655 311,530" Fill="#FFA6BAD9" />
+    <Polygon Points="92,530 280,530 280,655 92,655 92,530" Fill="#FFA6BAD9" />
+    <Polygon Points="531,686 719,686 719,811 531,811 531,686" Fill="#FFA6BAD9" />
+    <Polygon Points="311,686 500,686 500,811 311,811 311,686" Fill="#FFA6BAD9" />
+    <Polygon Points="92,686 280,686 280,811 92,811 92,686" Fill="#FFA6BAD9" />
+    <Polygon Points="531,686 531,733 719,702 719,686 531,686" Fill="#FF7387A6" />
+    <Polygon Points="311,686 311,733 500,702 500,686 311,686" Fill="#FF7387A6" />
+    <Polygon Points="92,686 92,733 280,702 280,686 92,686" Fill="#FF7387A6" />
+    <Polygon Points="531,530 531,577 719,545 719,530 531,530" Fill="#FF7387A6" />
+    <Polygon Points="311,530 311,577 500,545 500,530 311,530" Fill="#FF7387A6" />
+    <Polygon Points="92,530 92,577 280,545 280,530 92,530" Fill="#FF7387A6" />
+    <Polygon Points="531,216 531,263 719,231 719,216 531,216" Fill="#FF7387A6" />
+    <Polygon Points="311,216 311,263 500,231 500,216 311,216" Fill="#FF7387A6" />
+    <Polygon Points="92,216 92,263 280,231 280,216 92,216" Fill="#FF7387A6" />
+    <Polygon Points="531,373 531,420 719,388 719,373 531,373" Fill="#FF7387A6" />
+    <Polygon Points="311,373 311,420 500,388 500,373 311,373" Fill="#FF7387A6" />
+    <Polygon Points="92,373 92,420 280,388 280,373 92,373" Fill="#FF7387A6" />
+    <Polyline Points="531,342 531,216 719,216" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="311,342 311,216 500,216" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="92,342 92,216 280,216" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="531,498 531,373 719,373" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="311,498 311,373 500,373" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="92,498 92,373 280,373" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="531,655 531,530 719,530" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="311,655 311,530 500,530" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="92,655 92,530 280,530" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="531,811 531,686 719,686" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="311,811 311,686 500,686" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="92,811 92,686 280,686" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="531,811 719,811 719,686" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="311,811 500,811 500,686" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="92,811 280,811 280,686" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="531,655 719,655 719,530" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="311,655 500,655 500,530" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="92,655 280,655 280,530" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="531,342 719,342 719,216" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="311,342 500,342 500,216" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="92,342 280,342 280,216" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="531,498 719,498 719,373" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="311,498 500,498 500,373" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polyline Points="92,498 280,498 280,373" Stroke="#FFFFFFFF" StrokeThickness="3" />
+    <Polygon Points="28,154 281,28 970,28 783,154 28,154" Fill="#FFE5E5E5" Stroke="#FF000000" StrokeThickness="3" />
+    <Polygon Points="783,154 783,905 970,781 970,28 783,154" Fill="#FF999999" Stroke="#FF000000" StrokeThickness="3" />
+    <Polygon Points="907,132 954,101 954,227 907,258 907,132" Fill="#FF7387A6" />
+    <Polygon Points="853,169 900,137 900,263 853,294 853,169" Fill="#FF7387A6" />
+    <Polygon Points="797,206 845,174 845,299 797,331 797,206" Fill="#FF7387A6" />
+    <Polygon Points="907,289 954,258 954,383 907,415 907,289" Fill="#FF7387A6" />
+    <Polygon Points="853,325 900,294 900,420 853,451 853,325" Fill="#FF7387A6" />
+    <Polygon Points="797,362 845,330 845,456 797,487 797,362" Fill="#FF7387A6" />
+    <Polygon Points="907,446 954,415 954,540 907,572 907,446" Fill="#FF7387A6" />
+    <Polygon Points="853,482 900,451 900,577 853,608 853,482" Fill="#FF7387A6" />
+    <Polygon Points="797,519 845,488 845,613 797,644 797,519" Fill="#FF7387A6" />
+    <Polygon Points="907,603 954,571 954,697 907,728 907,603" Fill="#FF7387A6" />
+    <Polygon Points="853,639 900,608 900,733 853,765 853,639" Fill="#FF7387A6" />
+    <Polygon Points="797,676 845,644 845,770 797,801 797,676" Fill="#FF7387A6" />
+    <Polygon Points="907,603 907,650 954,587 954,571 907,603" Fill="#FF596D8C" />
+    <Polygon Points="853,639 853,687 900,623 900,608 853,639" Fill="#FF596D8C" />
+    <Polygon Points="797,676 797,723 845,660 845,644 797,676" Fill="#FF596D8C" />
+    <Polygon Points="907,446 907,493 954,430 954,415 907,446" Fill="#FF596D8C" />
+    <Polygon Points="853,482 853,530 900,467 900,451 853,482" Fill="#FF596D8C" />
+    <Polygon Points="797,519 797,566 845,504 845,488 797,519" Fill="#FF596D8C" />
+    <Polygon Points="907,132 907,180 954,117 954,101 907,132" Fill="#FF596D8C" />
+    <Polygon Points="853,169 853,216 900,153 900,137 853,169" Fill="#FF596D8C" />
+    <Polygon Points="797,206 797,253 845,190 845,174 797,206" Fill="#FF596D8C" />
+    <Polygon Points="907,289 907,336 954,273 954,258 907,289" Fill="#FF596D8C" />
+    <Polygon Points="853,325 853,373 900,310 900,294 853,325" Fill="#FF596D8C" />
+    <Polygon Points="797,362 797,409 845,346 845,330 797,362" Fill="#FF596D8C" />
+    <Polyline Points="907,258 907,132 954,101" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="853,294 853,169 900,137" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="797,331 797,206 845,174" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="907,415 907,289 954,258" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="853,451 853,325 900,294" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="797,487 797,362 845,330" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="907,572 907,446 954,415" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="853,608 853,482 900,451" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="797,644 797,519 845,488" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="907,728 907,603 954,571" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="853,765 853,639 900,608" Stroke="#FF000000" StrokeThickness="3" />
+    <Polyline Points="797,801 797,676 845,644" Stroke="#FF000000" StrokeThickness="3" />
+  </Canvas>
+</Viewbox>

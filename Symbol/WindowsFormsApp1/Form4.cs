@@ -31,8 +31,8 @@ namespace PropertyCode
         private void button1_Click_1(object sender, EventArgs e)
         {
             
-                frmProperties f = new frmProperties(class11, class11.ScadaAutoCode);
-            f.ShowDialog();
+            //    frmProperties f = new frmProperties(class11, class11.ScadaAutoCode);
+         //   f.ShowDialog();
 
         }
 

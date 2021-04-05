@@ -88,3 +88,33 @@ I:\0.Work\0.WPF project\Symbol\VietControl\obj\Debug\VietControl.csproj.CoreComp
 I:\0.Work\0.WPF project\Symbol\VietControl\obj\Debug\VietControl.csproj.CopyComplete
 I:\0.Work\0.WPF project\Symbol\VietControl\obj\Debug\VietControl.dll
 I:\0.Work\0.WPF project\Symbol\VietControl\obj\Debug\VietControl.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\VietControl.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\VietControl.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\EasyScada.Core.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\EasyScada.Winforms.Controls.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\PropertyCode.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\vGraphic.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\Newtonsoft.Json.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\MySql.Data.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\NCalc.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\FastColoredTextBox.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\XamlHelper.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.dll
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\EasyScada.Core.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\EasyScada.Winforms.Controls.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\EasyScada.Winforms.Controls.dll.config
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\vGraphic.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\vGraphic.dll.config
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\PropertyCode.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\Newtonsoft.Json.xml
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\XamlHelper.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.pdb
+H:\0.Work\0.AFS\Symbol\VietControl\bin\Debug\LaMarvin.Windows.Forms.ColorPicker.xml
+H:\0.Work\0.AFS\Symbol\VietControl\obj\Debug\VietControl.csprojAssemblyReference.cache
+H:\0.Work\0.AFS\Symbol\VietControl\obj\Debug\VietControl.csproj.CoreCompileInputs.cache
+H:\0.Work\0.AFS\Symbol\VietControl\obj\Debug\VietControl.csproj.CopyComplete
+H:\0.Work\0.AFS\Symbol\VietControl\obj\Debug\VietControl.dll
+H:\0.Work\0.AFS\Symbol\VietControl\obj\Debug\VietControl.pdb

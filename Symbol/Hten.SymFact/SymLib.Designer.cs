@@ -113,7 +113,8 @@ namespace vGraphic {
         ///   Looks up a localized string similar to &lt;Canvas Width=&quot;188&quot; Height=&quot;69.714&quot; xmlns=&quot;http://schemas.microsoft.com/xps/2005/06&quot;&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF00FFFF&quot; Data=&quot;M123.429,5.143 182.857,5.143 182.857,64.571 123.429,64.571 123.429,5.143Z&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF00FFFF&quot; Data=&quot;M64,49.714 123.429,49.714 123.429,64.571 64,64.571 64,49.714Z&quot; /&gt;
-        ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF00FFFF&quot; Data=&quot;M64,5.143 123.429,5.143 123.429,49.714 64,49.714 64,5.143Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF00FFFF&quot; Data=&quot;M64,5.143 123.429,5.143 123.429,49.714 64,49.714 64,5.143Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Air_Conditioning___Air_Conditioning_102 {
             get {
@@ -1320,7 +1321,8 @@ namespace vGraphic {
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M5.228,12.832 42.297,12.832&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M183.446,12.832 146.376,12.832&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M76.04,12.832 113.109,12.832&quot; /&gt;
-        ///&lt;/Canvas&gt;        /// [rest of string was truncated]&quot;;.
+        ///&lt;/Canvas&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Air_Conditioning___Air_Conditioning_69 {
             get {
@@ -6889,7 +6891,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FFF2E5CC&quot; Data=&quot;M3.978,3.978 70.533,3.978 70.533,137.039 3.978,137.039 3.978,3.978Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFEDE0C7&quot; Data=&quot;M3.978,70.533 70.533,37.498 70.533,125.882 3.978,125.882 3.978,70.533Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFE8DBC2&quot; Data=&quot;M3.978,81.69 70.533,48.703 70.533,125.882 3.978,125.882 3.978,81.69Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFE3D6BD&quot; Data=&quot;M3.978,93.138 70.533,59.618 70.533,125.882 3.978,125.882 3.978,93.138Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFE3D6BD&quot; Data=&quot;M3.978,93.138 70.533,59.618 70.533,125.882 3.978,125.882 3.978,93.138Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Boilers___Pulse_combustion_boiler {
             get {
@@ -15503,7 +15506,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FFCCCCCC&quot; Data=&quot;M5.312,32.639 182.362,32.639 182.362,47.535 5.312,47.535 5.312,32.639Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFD4D4D4&quot; Data=&quot;M5.641,33.679 182.69,33.679 182.69,46.494 5.641,46.494 5.641,33.679Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFDEDEDE&quot; Data=&quot;M5.641,34.775 182.69,34.775 182.69,45.399 5.641,45.399 5.641,34.775Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFE5E5E5&quot; Data=&quot;M5.641,35.815 182.69,35.815 182.69,44.358 5.641,44.358 5.641,35.815Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFE5E5E5&quot; Data=&quot;M5.641,35.815 182.69,35.815 182.69,44.358 5.641,44.358 5.641,35.815Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string HVAC___Contaminent_barrier_1 {
             get {
@@ -16567,7 +16571,8 @@ namespace vGraphic {
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF00FFFF&quot; Data=&quot;M78.499,49.158 111.442,107.582 45.298,107.582 45.04,107.582 78.499,49.158Z&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M45.04,107.582 4.375,136.922&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M111.442,107.582 151.85,136.922&quot; /&gt;
-        ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M78.499,49.416 78.499,4.375&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M78.499,49.416 78.499,4.375&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string ISA_Symbols___Delta_connection {
             get {
@@ -20331,7 +20336,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FFB21919&quot; Data=&quot;M12.741,5.259 175.259,5.259 175.259,12.741 12.741,12.741 12.741,5.259Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFB21919&quot; Data=&quot;M5.259,12.741 182.741,12.741 182.741,27.63 5.259,27.63 5.259,12.741Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFAB1212&quot; Data=&quot;M12.741,10.593 175.259,7.407 175.259,12.741 12.741,12.741 12.741,10.593Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFAB1212&quot; Data=&quot;M5.259,23.333 182.741,16.963 182.741,27.63 5.259,27.63 5.259,23.333Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFAB1212&quot; Data=&quot;M5.259,23.333 182.741,16.963 182.741,27.63 5.259,27.63 5.259,23.333Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Machining___Floor_plate {
             get {
@@ -20564,7 +20570,8 @@ namespace vGraphic {
         ///   Looks up a localized string similar to &lt;Canvas Width=&quot;172.301&quot; Height=&quot;141.059&quot; xmlns=&quot;http://schemas.microsoft.com/xps/2005/06&quot;&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FFE5CBCB&quot; Data=&quot;M156.097,44.171 167.473,44.171 167.473,114.146 156.097,114.146 156.097,44.171Z&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF4C3232&quot; Data=&quot;M156.097,28.578 164.199,28.578 164.199,72.139 156.097,72.139 156.097,28.578Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFF2D8D8&quot; Data=&quot;M156.097,80.296 151.88,80.296 151.88,67.311 156.097,67.311 156.097,80.296Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFF2D8D8&quot; Data=&quot;M156.097,80.296 151.88,80.296 151.88,67.311 156.097,67.311 156.097,80.296Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Machining___Hydraulic_press_brake_2 {
             get {
@@ -23036,7 +23043,8 @@ namespace vGraphic {
         
         /// <summary>
         ///   Looks up a localized string similar to &lt;Canvas Width=&quot;188.056&quot; Height=&quot;111.729&quot; xmlns=&quot;http://schemas.microsoft.com/xps/2005/06&quot;&gt;
-        ///  &lt;Path Stroke=&quot;#FF0000FF&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M181.003,83.008 181.003,79.111 177.106,79.111 177.106,75.213 181.003,75.213 181.003,71.316 177.106,71.316 177.106,67.418 181.003,67.418 181.003,63.474 177.106,63.474 177.106,59.577 181.003,59.577 181.003,55.679 177.106,55.679 177.106,52.153 181.003,52.153 181.003,48.255 177.106,48.255 177.106,44.311 181.003,44.311 181.003,40.414 177.106,40.414 177.106,36.516&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Stroke=&quot;#FF0000FF&quot; StrokeThickness=&quot;0.5&quot; Data=&quot;M181.003,83.008 181.003,79.111 177.106,79.111 177.106,75.213 181.003,75.213 181.003,71.316 177.106,71.316 177.106,67.418 181.003,67.418 181.003,63.474 177.106,63.474 177.106,59.577 181.003,59.577 181.003,55.679 177.106,55.679 177.106,52.153 181.003,52.153 181.003,48.255 177.106,48.255 177.106,44.311 181.003,44.311 181.003,40.414 177.106,40.414 177.106,36.516&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Mining___Overburden_hauler {
             get {
@@ -23300,7 +23308,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FF7F7F7F&quot; Data=&quot;M13.6,137.333 13.6,18.933 16.267,18.933 16.267,137.333 13.6,137.333Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FF999999&quot; Data=&quot;M13.6,137.333 13.6,18.933 16,18.933 16,137.333 13.6,137.333Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFB2B2B2&quot; Data=&quot;M13.867,137.333 13.867,18.933 15.733,18.933 15.733,137.333 13.867,137.333Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFCCCCCC&quot; Data=&quot;M14.133,137.333 14.133,18.933 15.467,18.933 15.467,137.333 14.133,137.333Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFCCCCCC&quot; Data=&quot;M14.133,137.333 14.133,18.933 15.467,18.933 15.467,137.333 14.133,137.333Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Mixers___3_D_Mixer {
             get {
@@ -26029,7 +26038,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FF663300&quot; Data=&quot;M26.097,3.994 26.097,137.143 3.994,137.143 3.994,3.994 26.097,3.994Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FF7F3F0C&quot; Data=&quot;M24.233,3.994 24.233,137.143 5.859,137.143 5.859,3.994 24.233,3.994Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFB25926&quot; Data=&quot;M20.638,3.994 20.638,137.143 9.454,137.143 9.454,3.994 20.638,3.994Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFCC6633&quot; Data=&quot;M17.309,3.994 17.309,137.143 12.649,137.143 12.649,3.994 17.309,3.994Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFCC6633&quot; Data=&quot;M17.309,3.994 17.309,137.143 12.649,137.143 12.649,3.994 17.309,3.994Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Pipes__miscellaneous___Long_vertical_copper_pipe {
             get {
@@ -26155,7 +26165,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FF5C6666&quot; Data=&quot;M5.323,5.323 182.773,5.323 182.773,49.686 5.323,49.686 5.323,5.323Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FF757F7F&quot; Data=&quot;M5.323,8.163 182.773,8.163 182.773,46.847 5.323,46.847 5.323,8.163Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FF919999&quot; Data=&quot;M5.323,11.712 182.773,11.712 182.773,43.298 5.323,43.298 5.323,11.712Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFAAB2B2&quot; Data=&quot;M5.323,14.551 182.773,14.551 182.773,40.458 5.323,40.458 5.323,14.551Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFAAB2B2&quot; Data=&quot;M5.323,14.551 182.773,14.551 182.773,40.458 5.323,40.458 5.323,14.551Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Pipes__miscellaneous___Segmented_long_horizontal_gas_pipe {
             get {
@@ -28509,7 +28520,8 @@ namespace vGraphic {
         ///   Looks up a localized string similar to &lt;Canvas Width=&quot;107.751&quot; Height=&quot;141.007&quot; xmlns=&quot;http://schemas.microsoft.com/xps/2005/06&quot;&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FFB2B2B2&quot; Data=&quot;M31.704,43.499 37.957,43.499 48.333,62.167 59.418,62.167 69.794,43.499 76.046,43.499 76.046,64.961 31.704,64.961 31.704,43.499Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FF999999&quot; Data=&quot;M31.704,64.251 39.331,64.251 35.163,44.164 31.704,44.164 31.704,64.251Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FF999999&quot; Data=&quot;M76.046,64.251 68.419,64.251 72.588,44.164 76.046,44.164 76.046,64.251Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FF999999&quot; Data=&quot;M76.046,64.251 68.419,64.251 72.588,44.164 76.046,44.164 76.046,64.251Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Process_Heating___Condenser_3 {
             get {
@@ -30298,7 +30310,8 @@ namespace vGraphic {
         ///  &lt;Path Fill=&quot;#FF3F1F00&quot; Data=&quot;M8.804,11.72 58.037,11.72 58.037,126.953 8.804,126.953 8.804,11.72Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFAA7F54&quot; Data=&quot;M8.804,11.72 58.037,11.72 58.037,126.953 8.804,126.953 8.804,11.72Z&quot; /&gt;
         ///  &lt;Path Fill=&quot;#FFB08961&quot; Data=&quot;M10.093,11.72 51.196,11.72 51.196,126.953 10.093,126.953 10.093,11.72Z&quot; /&gt;
-        ///  &lt;Path Fill=&quot;#FFB89471&quot; Data=&quot;M11.159,11.72 44.636,11.72 44.636,126.953 11.159,126.953 11.159,11.72Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Fill=&quot;#FFB89471&quot; Data=&quot;M11.159,11.72 44.636,11.72 44.636,126.953 11.159,126.953 11.159,11.72Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Pumps___Rotary_vacuum_pump {
             get {
@@ -36024,7 +36037,8 @@ namespace vGraphic {
         ///   Looks up a localized string similar to &lt;Canvas Width=&quot;188.11&quot; Height=&quot;88.154&quot; xmlns=&quot;http://schemas.microsoft.com/xps/2005/06&quot;&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FFCCCCCC&quot; Data=&quot;M92.11,5.275 96,5.275 96,12.725 92.11,12.725 92.11,5.275Z&quot; /&gt;
         ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FFCCCCCC&quot; Data=&quot;M81.099,5.275 90.33,5.275 90.33,8.835 81.099,8.835 81.099,5.275Z&quot; /&gt;
-        ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF666666&quot; Data=&quot;M79.319,8.835 86.769,8.835 86.769,14.505 79.319,14.505 79.319,8.835Z&quot; /&gt;        /// [rest of string was truncated]&quot;;.
+        ///  &lt;Path Stroke=&quot;#FF000000&quot; StrokeThickness=&quot;0.5&quot; Fill=&quot;#FF666666&quot; Data=&quot;M79.319,8.835 86.769,8.835 86.769,14.505 79.319,14.505 79.319,8.835Z&quot; /&gt;
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         public static string Water_Wastewater___Clarifier_and_thickener_drive_2 {
             get {

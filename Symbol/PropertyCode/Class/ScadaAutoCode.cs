@@ -17,17 +17,19 @@ using EasyScada.Winforms.Controls;
 
 namespace PropertyCode
 {
-    public  class ScadaAutoCode
+    public class ScadaAutoCode
     {
 
         public static Dictionary<string, object> ListCode { get; private set; }
+
+        private static Control backupcontrol;
         public static Control control;
-        private Control oldControl;// = new Control();
         public static IEasyDriverConnector connector => EasyDriverConnectorProvider.GetEasyDriverConnector();
 
         #region PropertyAutoChange
-        public static void Main(Control ctr, string code )
+        public static void Main(Control ctr, string code)
         {
+            backupcontrol = ControlExtensions.Clone(ctr);
             control = ctr;
             ListCode = GetDicFromTagCtr(code); // tạo list key
 
@@ -45,6 +47,11 @@ namespace PropertyCode
                             {
                                 foreach (string tag in listtagColor)
                                 {
+                                    if (tag.Contains("Sytemtag")) //Dành cho các tag sytem triger 1,2... giây thì không tạo sự kiện chỉ đọc
+                                    {
+                                        continue;
+                                    }
+
                                     //tạo sự kiện cho tưng tag 
                                     connector.GetTag(tag).ValueChanged += (x, y) =>
                                     {
@@ -65,6 +72,11 @@ namespace PropertyCode
                             {
                                 foreach (string tag in listtagString)
                                 {
+                                    if (tag.Contains("Sytemtag")) //Dành cho các tag sytem triger 1,2... giây thì không tạo sự kiện chỉ đọc
+                                    {
+                                        continue;
+                                    }
+
                                     connector.GetTag(tag).ValueChanged += (x, y) =>
                                     {
                                         OnTagStringValueChanged(key);
@@ -85,6 +97,10 @@ namespace PropertyCode
                             {
                                 foreach (string tag in listtagBool)
                                 {
+                                    if (tag.Contains("Sytemtag")) //Dành cho các tag sytem triger 1,2... giây thì không tạo sự kiện chỉ đọc
+                                    {
+                                        continue;
+                                    }
                                     connector.GetTag(tag).ValueChanged += (x, y) =>
                                     {
                                         OnTagBoolValueChanged(key);
@@ -105,6 +121,11 @@ namespace PropertyCode
                             {
                                 foreach (string tag in listtagInt)
                                 {
+                                    if (tag.Contains("Sytemtag")) //Dành cho các tag sytem triger 1,2... giây thì không tạo sự kiện chỉ đọc
+                                    {
+                                        continue;
+                                    }
+
                                     connector.GetTag(tag).ValueChanged += (x, y) =>
                                     {
                                         OnTagIntValueChanged(key);
@@ -198,69 +219,266 @@ namespace PropertyCode
 
         private static void OnTagColorValueChanged(string keyPropertyStype)
         {
-            string val = ExeExpression((ListCode[keyPropertyStype] as ColorSetting).Expression).Split('.')[0]; //Lấy giá trị hàm biểu thức
-            var listCount = (ListCode[keyPropertyStype] as ColorSetting).ColorObjects.Count;
-            if (listCount > 0)
+            string exValue = ExeExpression((ListCode[keyPropertyStype] as ColorSetting).Expression).Split('.')[0]; //Lấy giá trị hàm biểu thức
+            var obj = (ListCode[keyPropertyStype] as ColorSetting).ColorObjects;
+
+            for (int i = 0; i < obj.Count; i++)
             {
-                foreach (ColorObject obj in (ListCode[keyPropertyStype] as ColorSetting).ColorObjects)
+                switch (obj[i].Value.ToString())
                 {
-                    if (obj.Value.Contains("-")) //Khoảng range giá trị
-                    {
-                        if (Convert.ToInt16(val) >= Convert.ToInt16(obj.Value.Split('-')[0]) &&
-                            Convert.ToInt16(val) >= Convert.ToInt16(obj.Value.Split('-')[1]))
+                    case var s when s.Contains("-"):
+                        if (Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[0]) && Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[1]))
                         {
-                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj.Color)));
+                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].Color)));
                         }
-                        //else if (i = (listCount-1))
-                        //{
-                        //    SetProperty(control, keyPropertyStype, GetProperty(oldControl, keyPropertyStype));
-                        //}
-
-                    }
-                    else if (obj.Value.Contains("!")) //Khác giá trị
-                    {
-                        if (val != obj.Value)
+                        else if (i == obj.Count - 1)
                         {
-                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj.Color)));
+                            SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
                         }
-                        //else if (i = (listCount-1))
-                        //{
-                        //    SetProperty(control, keyPropertyStype, GetProperty(oldControl, keyPropertyStype));
-                        //}
-
-                    }
-                    else
-                    {
-                        if (val == obj.Value) //Value 
+                        break;
+                    case var s when s.Contains("!"):
+                        if (exValue != obj[i].Value)
                         {
-                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj.Color)));
+                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].Color)));
                         }
-                        //else if (i = (listCount-1))
-                        //{
-                        //    SetProperty(control, keyPropertyStype, GetProperty(oldControl, keyPropertyStype));
-                        //}
-                    }
+                        else if (i == obj.Count - 1)
+                        {
+                            SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                        }
+                        break;
+                    default:
+                        if (exValue == obj[i].Value) //Value 
+                        {
+                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].Color)));
+                        }
+                        else if (i == obj.Count - 1)
+                        {
+                            SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                        }
 
+                        break;
                 }
             }
+
+
+            //foreach (ColorObject obj in (ListCode[keyPropertyStype] as ColorSetting).ColorObjects)
+            //{
+            //    if (obj.Value.Contains("-")) //Khoảng range giá trị
+            //    {
+            //        if (Convert.ToInt16(val) >= Convert.ToInt16(obj.Value.Split('-')[0]) &&
+            //            Convert.ToInt16(val) >= Convert.ToInt16(obj.Value.Split('-')[1]))
+            //        {
+            //            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj.Color)));
+            //        }
+            //        //else if (i = (listCount-1))
+            //        //{
+            //        //    SetProperty(control, keyPropertyStype, GetProperty(oldControl, keyPropertyStype));
+            //        //}
+
+            //    }
+            //    else if (obj.Value.Contains("!")) //Khác giá trị
+            //    {
+            //        if (val != obj.Value)
+            //        {
+            //            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj.Color)));
+            //        }
+            //    }
+            //    else
+            //    {
+            //        if (val == obj.Value) //Value 
+            //        {
+            //            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj.Color)));
+            //        }
+            //        //else if (i = (listCount-1))
+            //        //{
+            //        //    SetProperty(control, keyPropertyStype, GetProperty(oldControl, keyPropertyStype));
+            //        //}
+            //    }
+
+            //}
         }
+
 
 
         private static void OnTagIntValueChanged(string keyPropertyStype)
         {
-            throw new NotImplementedException();
+            try
+            {
+                string exValue = ExeExpression((ListCode[keyPropertyStype] as IntSetting).Expression).Split('.')[0]; //Lấy giá trị hàm biểu thức
+                var obj = (ListCode[keyPropertyStype] as IntSetting).IntObjects;
+                if (obj.Count == 0)
+                {
+                    SetProperty(control, keyPropertyStype, exValue);
+                    return;
+                }
+                for (int i = 0; i < obj.Count; i++)
+                {
+                    try
+                    {
+                        switch (obj[i].Value.ToString())
+                        {
+                            case var s when s.Contains("-"):
+                                if (Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[0]) && Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[1]))
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+                                break;
+                            case var s when s.Contains("!"):
+                                if (exValue != obj[i].Value)
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+                                break;
+                            default:
+                                if (exValue == obj[i].Value) //Value 
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+
+                                break;
+                        }
+
+                    }
+                    catch { }
+                }
+
+            }
+            catch { }
+
         }
         private static void OnTagBoolValueChanged(string keyPropertyStype)
         {
+            try
+            {
+                string exValue = ExeExpression((ListCode[keyPropertyStype] as BoolSetting).Expression).Split('.')[0]; //Lấy giá trị hàm biểu thức
+                var obj = (ListCode[keyPropertyStype] as BoolSetting).BoolObjects;
+                if (obj.Count == 0)
+                {
+                    SetProperty(control, keyPropertyStype, exValue);
+                    return;
+                }
+                for (int i = 0; i < obj.Count; i++)
+                {
+                    try
+                    {
+                        switch (obj[i].Value.ToString())
+                        {
+                            case var s when s.Contains("-"):
+                                if (Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[0]) && Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[1]))
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+                                break;
+                            case var s when s.Contains("!"):
+                                if (exValue != obj[i].Value)
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+                                break;
+                            default:
+                                if (exValue == obj[i].Value) //Value 
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+
+                                break;
+                        }
+
+                    }
+                    catch { }
+                }
+
+            }
+            catch { }
+
         }
 
         private static void OnTagStringValueChanged(string keyPropertyStype)
         {
+            try
+            {
+                string exValue = ExeExpression((ListCode[keyPropertyStype] as StringSetting).Expression).Split('.')[0]; //Lấy giá trị hàm biểu thức
+                var obj = (ListCode[keyPropertyStype] as StringSetting).StringObjects;
+                if (obj.Count == 0)
+                {
+                    SetProperty(control, keyPropertyStype, exValue);
+                    return;
+                }
+                for (int i = 0; i < obj.Count; i++)
+                {
+                    try
+                    {
+                        switch (obj[i].Value.ToString())
+                        {
+                            case var s when s.Contains("-"):
+                                if (Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[0]) && Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[1]))
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].Text);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+                                break;
+                            case var s when s.Contains("!"):
+                                if (exValue != obj[i].Value)
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].Text);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+                                break;
+                            default:
+                                if (exValue == obj[i].Value) //Value 
+                                {
+                                    SetProperty(control, keyPropertyStype, obj[i].Text);
+                                }
+                                else if (i == obj.Count - 1)
+                                {
+                                    SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                }
+
+                                break;
+                        }
+
+                    }
+                    catch { }
+                }
+
+            }
+            catch { }
+
         }
 
 
         #endregion
-        public static string ExeExpression(string _expression) 
+        public static string ExeExpression(string _expression)
         {
             string expression = _expression.Replace("\n", "").Replace("\r", "").Replace("\t", "");
             List<string> tags = ExtractFromString(expression, "{", "}"); // mục đích để thay thế giá trị vào tag bên trong {}
@@ -268,7 +486,7 @@ namespace PropertyCode
             foreach (string nameTagCur in tags)
             {
                 string nameTag = "";
-                if (nameTagCur.Contains("@NOP::")) //Nếu đinh dạng có @NOP:: thì bỏ qua tag Prefix
+                if (nameTagCur.Contains("@NOP::") || (nameTagCur.Contains("@SytemTag::")) )//Nếu đinh dạng có @NOP:: thì bỏ qua tag Prefix
                 {
                     nameTag = nameTagCur;
 
@@ -278,8 +496,8 @@ namespace PropertyCode
                     nameTag = nameTagCur;// getparentTagPrefix + nameTagCur;
                 }
                 //////////////////////Get tag///////////////////////////
-                object valueTag =null;
-                if (connector.GetTag(nameTag)!=null)
+                object valueTag = null;
+                if (connector.GetTag(nameTag) != null)
                 {
                     valueTag = connector.GetTag(nameTag).Value;
                 }

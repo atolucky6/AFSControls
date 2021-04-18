@@ -282,7 +282,7 @@ namespace PropertyCode
                         FuncList[e.Node.Text] = new StringSetting()
                         {
                             Expression = exp,
-                            TextObjects = TextObjects
+                            StringObjects = TextObjects
                         };
                     };
                 }
@@ -362,7 +362,7 @@ namespace PropertyCode
             SimpleList listResult = new SimpleList();
             if (TextSetting != null)
             {
-                foreach (StringObject o in TextSetting.TextObjects)
+                foreach (StringObject o in TextSetting.StringObjects)
                 {
                     listResult.Add(o);
                 }

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-H:\0.Work\0.AFS\Symbol\EasyScada.Core\obj\Debug\
+I:\0.Work\0.AFS\SymbolGit\Symbol\EasyScada.Core\obj\Debug\
 EasyScada.Core
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 19-1020800525
 
 91-1063903566
-241161072946
+241395400751
 Resources\Theme\TreeView.xaml;Resources\Theme\ToggleButton.xaml;Resources\Theme\TextBox.xaml;Resources\Theme\Slider.xaml;Resources\Theme\RichTextBox.xaml;Resources\Theme\RepeatButton.xaml;Resources\Theme\RadioButton.xaml;Resources\Theme\ProgressBar.xaml;Resources\Theme\Button.xaml;Resources\Theme\PasswordBox.xaml;Resources\Theme\Menu.xaml;Resources\Theme\GroupBox.xaml;Resources\Theme\Generic.xaml;Resources\Theme\CheckBox.xaml;Resources\Theme\ComboBox.xaml;Resources\Theme\ListBox.xaml;Resources\Theme\ScrollViewer.xaml;Resources\Theme\ListBoxScrollViewer.xaml;Resources\Theme\TabControl.xaml;
 
 False

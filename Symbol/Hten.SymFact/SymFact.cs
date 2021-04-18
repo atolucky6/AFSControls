@@ -129,7 +129,7 @@ namespace vGraphic
         public override DesignerActionItemCollection GetSortedActionItems()
         {
             var items = new DesignerActionItemCollection();
-            items.Add(new DesignerActionTextItem(".Net HMI", "Category1"));
+            items.Add(new DesignerActionTextItem("Contact: nguyentrongviet1994@gmail.com", "Category1"));
             items.Add(new DesignerActionMethodItem(this, "frmProperty", "frmProperty", "Category1"));
             items.Add(new DesignerActionMethodItem(this, "frmGraphic", "frmGraphic", "Category1"));
             items.Add(new DesignerActionPropertyItem("Flip", "Flip", "Category2"));

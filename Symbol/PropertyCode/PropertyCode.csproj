@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\ControlExtensions.cs" />
     <Compile Include="Class\Heldper.cs" />
     <Compile Include="Class\ScadaAutoCode.cs" />
     <Compile Include="Class\TItem.cs" />

@@ -11,7 +11,7 @@ namespace PropertyCode
     {
         public string Expression;
 
-        public List<StringObject> TextObjects = new List<StringObject>();
+        public List<StringObject> StringObjects = new List<StringObject>();
 
     }
 }

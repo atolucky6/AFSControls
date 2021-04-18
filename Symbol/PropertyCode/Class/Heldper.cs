@@ -9,11 +9,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using EasyScada;
+using System.Reflection;
 
 namespace PropertyCode
 {
-    public class held 
+    public static class held 
     {
+
+
+
 
         /// <summary>
         /// Phân tích sau đó lấy ra 1 list tag
@@ -136,6 +140,7 @@ namespace PropertyCode
             }
             return lst;
         }
+
     }
 
 

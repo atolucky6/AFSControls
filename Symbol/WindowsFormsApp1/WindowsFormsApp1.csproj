@@ -113,13 +113,13 @@
       <Project>{BA53E923-5BAD-443C-A8F0-B191EAB9CA25}</Project>
       <Name>EasyScada.Winforms.Controls</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Hten.SymFact\vGraphic.csproj">
-      <Project>{385297ff-84d4-48de-bcbc-cddd6d85f1c6}</Project>
-      <Name>vGraphic</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PropertyCode\PropertyCode.csproj">
       <Project>{580f8513-e035-46e6-9aa0-86eb2ca2b9d5}</Project>
       <Name>PropertyCode</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Symbol\vGraphic.csproj">
+      <Project>{385297ff-84d4-48de-bcbc-cddd6d85f1c6}</Project>
+      <Name>vGraphic</Name>
     </ProjectReference>
     <ProjectReference Include="..\VietControl\VietControl.csproj">
       <Project>{5DFA5B22-8A96-4926-878B-9E2370572CD4}</Project>

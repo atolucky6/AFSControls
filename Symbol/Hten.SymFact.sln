@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LaMarvin.Windows.Forms.ColorPicker", "Control\LaMarvin.Windows.Forms.ColorPicker.vbproj", "{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vGraphic", "Hten.SymFact\vGraphic.csproj", "{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlHelper", "XamlHelper\XamlHelper.csproj", "{A85F0C73-5442-470A-AEEE-DE1456112FC5}"
@@ -19,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyScada.Core", "EasyScada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VietControl", "VietControl\VietControl.csproj", "{5DFA5B22-8A96-4926-878B-9E2370572CD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vGraphic", "Symbol\vGraphic.csproj", "{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +29,6 @@ Global
 		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4B2CBF-6DD2-40BB-9ED9-D6F696946481}.Release|Any CPU.Build.0 = Release|Any CPU
-		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2E3114C-91B8-4A01-8AF7-589B2B453CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,6 +53,10 @@ Global
 		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DFA5B22-8A96-4926-878B-9E2370572CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385297FF-84D4-48DE-BCBC-CDDD6D85F1C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

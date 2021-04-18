@@ -61,13 +61,13 @@
       <Project>{ba53e923-5bad-443c-a8f0-b191eab9ca25}</Project>
       <Name>EasyScada.Winforms.Controls</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Hten.SymFact\vGraphic.csproj">
-      <Project>{385297ff-84d4-48de-bcbc-cddd6d85f1c6}</Project>
-      <Name>vGraphic</Name>
-    </ProjectReference>
     <ProjectReference Include="..\PropertyCode\PropertyCode.csproj">
       <Project>{580f8513-e035-46e6-9aa0-86eb2ca2b9d5}</Project>
       <Name>PropertyCode</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Symbol\vGraphic.csproj">
+      <Project>{385297ff-84d4-48de-bcbc-cddd6d85f1c6}</Project>
+      <Name>vGraphic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

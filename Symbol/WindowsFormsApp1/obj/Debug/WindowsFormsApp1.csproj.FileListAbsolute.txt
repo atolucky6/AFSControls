@@ -265,7 +265,6 @@ I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\bin\Debug\LaMarvin.Windows.For
 I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
 I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
 I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
-I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
 I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\obj\Debug\PropertyCode.Form4.resources
 I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 I:\0.Work\0.AFS\SymbolGit\Symbol\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache

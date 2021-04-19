@@ -28,15 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmProperties));
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
             this.panel1 = new System.Windows.Forms.Panel();
             this.treeRoot = new System.Windows.Forms.TreeView();
+            this._AutoListIcons = new System.Windows.Forms.ImageList(this.components);
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.Label = new System.Windows.Forms.Label();
             this.MainPanel1 = new System.Windows.Forms.Panel();
-            this._AutoListIcons = new System.Windows.Forms.ImageList();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer3)).BeginInit();
             this.splitContainer3.Panel1.SuspendLayout();
             this.splitContainer3.Panel2.SuspendLayout();
@@ -86,46 +87,6 @@
             this.treeRoot.Size = new System.Drawing.Size(217, 455);
             this.treeRoot.TabIndex = 0;
             this.treeRoot.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeRoot_AfterSelect);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(498, 424);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 27);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "Close";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(406, 424);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 27);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "OK";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.OK_CLick);
-            // 
-            // Label
-            // 
-            this.Label.BackColor = System.Drawing.Color.Gray;
-            this.Label.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label.ForeColor = System.Drawing.Color.White;
-            this.Label.Location = new System.Drawing.Point(0, 0);
-            this.Label.Name = "Label";
-            this.Label.Size = new System.Drawing.Size(594, 20);
-            this.Label.TabIndex = 3;
-            this.Label.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // MainPanel1
-            // 
-            this.MainPanel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.MainPanel1.Location = new System.Drawing.Point(0, 22);
-            this.MainPanel1.Name = "MainPanel1";
-            this.MainPanel1.Size = new System.Drawing.Size(576, 398);
-            this.MainPanel1.TabIndex = 0;
             // 
             // _AutoListIcons
             // 
@@ -282,6 +243,46 @@
             this._AutoListIcons.Images.SetKeyName(148, "VSObject_ValueType_Sealed.bmp");
             this._AutoListIcons.Images.SetKeyName(149, "VSObject_ValueType_Shortcut.bmp");
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(498, 424);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 27);
+            this.button2.TabIndex = 4;
+            this.button2.Text = "Close";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(406, 424);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 27);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "OK";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.OK_CLick);
+            // 
+            // Label
+            // 
+            this.Label.BackColor = System.Drawing.Color.Gray;
+            this.Label.Dock = System.Windows.Forms.DockStyle.Top;
+            this.Label.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label.ForeColor = System.Drawing.Color.White;
+            this.Label.Location = new System.Drawing.Point(0, 0);
+            this.Label.Name = "Label";
+            this.Label.Size = new System.Drawing.Size(594, 20);
+            this.Label.TabIndex = 3;
+            this.Label.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // MainPanel1
+            // 
+            this.MainPanel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.MainPanel1.Location = new System.Drawing.Point(0, 22);
+            this.MainPanel1.Name = "MainPanel1";
+            this.MainPanel1.Size = new System.Drawing.Size(576, 398);
+            this.MainPanel1.TabIndex = 0;
+            // 
             // frmProperties
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -293,7 +294,7 @@
             this.MinimizeBox = false;
             this.Name = "frmProperties";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Animation";
+            this.Text = "nguyentrongviet1994@gmail.com";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmProperties_FormClosing);
             this.Load += new System.EventHandler(this.Properties_Load);
             this.splitContainer3.Panel1.ResumeLayout(false);

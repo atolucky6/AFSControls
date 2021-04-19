@@ -14,10 +14,7 @@ namespace vGraphic
         static ResourceManager rm;
         static ResourceSet rs;
         static Dictionary<string, object> GraphicFromResxFile = new Dictionary<string, object>();
-        //  static string location = System.Reflection.Assembly.GetEntryAssembly().Location;
-        //  static string directoryPath = Path.GetDirectoryName(location).ToString();
-      //  public static string ResxFile =  @"G:\MVVm\New folder\Hten.SymFact\bin\Debug\GraphicLib.Lib"; // File thêm vào
-        public static string ResxFile = AppDomain.CurrentDomain.BaseDirectory+ "\\GraphicLib.Lib"; // File thêm vào
+        public static string ResxFile = AppDomain.CurrentDomain.BaseDirectory+ "\\GraphicLib.Lib"; 
 
        
 

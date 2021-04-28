@@ -14,6 +14,6 @@ namespace PropertyCode
         private string text;
 
         public string Value { get => value; set => this.value = value; }
-        public string Text { get => text; set => text = value; }
+        public string ControlValue { get => text; set => text = value; }
     }
 }

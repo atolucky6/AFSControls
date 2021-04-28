@@ -229,17 +229,31 @@ namespace PropertyCode
                     case var s when s.Contains("-"):
                         if (Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[0]) && Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[1]))
                         {
-                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].Color)));
+                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].ControlValue)));
                         }
                         else if (i == obj.Count - 1)
                         {
                             SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
                         }
                         break;
+                    case var s when s.Contains(";"):
+                        foreach (var item in s.Split(';'))
+                        {
+                            if (Convert.ToInt16(exValue) == Convert.ToInt16(item))
+                            {
+                                SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].ControlValue)));
+                            }
+                            else if (i == obj.Count - 1)
+                            {
+                                SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                            }
+                        }
+                        break;
+
                     case var s when s.Contains("!"):
                         if (exValue != obj[i].Value)
                         {
-                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].Color)));
+                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].ControlValue)));
                         }
                         else if (i == obj.Count - 1)
                         {
@@ -249,7 +263,7 @@ namespace PropertyCode
                     default:
                         if (exValue == obj[i].Value) //Value 
                         {
-                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].Color)));
+                            SetProperty(control, keyPropertyStype, ColorTranslator.FromHtml(ColorTranslator.ToHtml(obj[i].ControlValue)));
                         }
                         else if (i == obj.Count - 1)
                         {
@@ -327,6 +341,20 @@ namespace PropertyCode
                                     SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
                                 }
                                 break;
+                            case var s when s.Contains(";"):
+                                foreach (var item in s.Split(';'))
+                                {
+                                    if (Convert.ToInt16(exValue) == Convert.ToInt16(item))
+                                    {
+                                        SetProperty(control, keyPropertyStype, obj[i].ControlValue);
+                                    }
+                                    else if (i == obj.Count - 1)
+                                    {
+                                        SetProperty(control, keyPropertyStype, GetProperty(backupcontrol, keyPropertyStype));
+                                    }
+                                }
+                                break;
+
                             case var s when s.Contains("!"):
                                 if (exValue != obj[i].Value)
                                 {
@@ -437,7 +465,7 @@ namespace PropertyCode
                             case var s when s.Contains("-"):
                                 if (Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[0]) && Convert.ToInt16(exValue) >= Convert.ToInt16(s.Split('-')[1]))
                                 {
-                                    SetProperty(control, keyPropertyStype, obj[i].Text);
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
                                 }
                                 else if (i == obj.Count - 1)
                                 {
@@ -447,7 +475,7 @@ namespace PropertyCode
                             case var s when s.Contains("!"):
                                 if (exValue != obj[i].Value)
                                 {
-                                    SetProperty(control, keyPropertyStype, obj[i].Text);
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
                                 }
                                 else if (i == obj.Count - 1)
                                 {
@@ -457,7 +485,7 @@ namespace PropertyCode
                             default:
                                 if (exValue == obj[i].Value) //Value 
                                 {
-                                    SetProperty(control, keyPropertyStype, obj[i].Text);
+                                    SetProperty(control, keyPropertyStype, obj[i].ControlValue);
                                 }
                                 else if (i == obj.Count - 1)
                                 {

@@ -14,6 +14,6 @@ namespace PropertyCode
         private Color color;
 
         public string Value { get => value; set => this.value = value; }
-        public Color Color { get => color; set => color = value; }
+        public Color ControlValue { get => color; set => color = value; }
     }
 }
